@@ -1,2 +1,2 @@
 # Library-management-system-with-php
-This is library management system made with php.
+This is a library management system which was made with PHP. There are 3 kinds of users in this system. Admin will be able to check logs of all the user and look at the info about the user.Student will be able to log in and request for books. Staff will be able to accept student request. Hashing and salting were appleid for safety. Password of users can be changed by the help of multifactor authentication.
